@@ -1,3 +1,7 @@
+# Hi there, I'm Azer-khadhraoui! 👋
+
+Welcome to my GitHub profile. Here are some stats about my contributions:
+
 <table>
   <tr>
     <td>
@@ -9,8 +13,21 @@
   </tr>
 </table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azer-khadhraoui&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azer-khadhraoui&theme=radical&layout=compact)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Azer-khadhraoui&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Azer-khadhraoui&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+### Languages and Frameworks
+- JavaScript
+- Python
+- C
+- html
+- php
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Azer-khadhraoui&theme=radical)]
+
+
+
+
+
+Feel free to check out my repositories!
