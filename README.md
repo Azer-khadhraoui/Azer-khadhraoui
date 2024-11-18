@@ -15,7 +15,7 @@ Welcome to my GitHub profile. Here are some stats about my contributions:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azer-khadhraoui&theme=radical&layout=compact)
 
-![Peach And Goma](https://tenor.com/mi3fIUnauN2.gif)
+![Ryoshi Github Rockets](https://tenor.com/view/ryoshi-github-ryoshi-rockets-ryoshi-gif-25490912)
 
 ### Languages and Frameworks
 - JavaScript
