@@ -15,7 +15,7 @@ Welcome to my GitHub profile. Here are some stats about my contributions:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azer-khadhraoui&theme=radical&layout=compact)
 
-
+![Peach And Goma](https://tenor.com/mi3fIUnauN2.gif)
 
 ### Languages and Frameworks
 - JavaScript
@@ -25,9 +25,6 @@ Welcome to my GitHub profile. Here are some stats about my contributions:
 - php
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Azer-khadhraoui&theme=radical)]
-
-
-
 
 
 Feel free to check out my repositories!
