@@ -15,7 +15,7 @@ Welcome to my GitHub profile. Here are some stats about my contributions:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Azer-khadhraoui&theme=radical&layout=compact)
 
-![Ryoshi Github Rockets](https://tenor.com/view/ryoshi-github-ryoshi-rockets-ryoshi-gif-25490912)
+
 
 ### Languages and Frameworks
 - JavaScript
@@ -23,8 +23,10 @@ Welcome to my GitHub profile. Here are some stats about my contributions:
 - C
 - html
 - php
+- 
+![trophy](https://github-profile-trophy.vercel.app/?username=Azer-khadhraoui&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Azer-khadhraoui&theme=radical)]
 
 
-Feel free to check out my repositories!
+
+ ![Timothee Chalamet SNL](https://media.giphy.com/media/XDsQPj2Q8rtQG4BQ7b/giphy.gif)
