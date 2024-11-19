@@ -1,4 +1,7 @@
 # Hi there, I'm Azer-khadhraoui! 👋
+![](https://komarev.com/ghpvc/?username=Azer-khadhraoui&color=blue&style=flat-square)
+
+
 
 Welcome to my GitHub profile. Here are some stats about my contributions:
 
