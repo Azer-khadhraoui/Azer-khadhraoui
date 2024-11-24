@@ -48,7 +48,10 @@ Here’s a list of languages and tools I work with:
   - ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white)
 
 
-
+- **Additional Tools:**
+  - ![Qt Designer](https://img.shields.io/badge/Qt%20Designer-4E4E4E?style=for-the-badge&logo=qt&logoColor=white)
+  - ![Temenos T24](https://img.shields.io/badge/Temenos%20T24-007ACC?style=for-the-badge&logo=temenos&logoColor=white) <!-- Note: Use a custom logo if available -->
+  - ![Scratch](https://img.shields.io/badge/Scratch-4C97FF?style=for-the-badge&logo=scratch&logoColor=white)
 
 
 
