@@ -10,7 +10,7 @@
 
 ## 🎓 About Me
 
-- 🎯 **2nd Year Software Engineering Student** at ESPRIT 
+- 🎯 **3nd Year Software Engineering Student** at ESPRIT 
 - 💼 **Experience**: PowerApps Developer Intern at Agile 4UX | Banking Intern at ATB
 - 🏆 **Achievements**: Multiple certifications in AI, Data Science, C , JavaScript
 - 🌱 **Currently Learning**: Advanced React patterns, Modern TypeScript, Cloud technologies
