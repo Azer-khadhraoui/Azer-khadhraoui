@@ -19,8 +19,12 @@
 
 ## 💼 Professional Experience
 
----
 
+### <img src="logo.png" width="28"> Part-Time Web Developer — **AFRO X Lab** *(Remote)*
+📅 Feb 2026 – Present  
+
+- Developed the **Afro X Lab website** using **Next.js, Tailwind CSS, and TypeScript**
+- ---
 ### <img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" alt="ATB Logo" width="28"> Software Development Intern — **Arab Tunisian Bank** *(Head Office, Remote)*  
 📅 *Summer 2025*  
 - Built a React-based card management app using HTML, CSS, JavaScript, and React
