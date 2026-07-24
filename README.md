@@ -3,16 +3,14 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Azer-khadhraoui&color=blueviolet&style=flat-square&label=Profile+Views" />
   &nbsp;
-  <a href="https://www.linkedin.com/in/azer-khadhraoui-6b18a8332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/github/followers/Azer-khadhraoui?label=Followers&style=flat-square&color=blueviolet&logo=github" />
   &nbsp;
-  <a href="mailto:mohamedazer.khadhraoui@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  &nbsp;
-  <a href="https://azer-khadhraoui.github.io/Portfolio-WebPage/"><img src="https://img.shields.io/badge/Portfolio-00C853?style=flat-square&logo=githubpages&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/⚽_Football-Fan-blueviolet?style=flat-square" />
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=A855F7&size=24&center=true&vCenter=true&width=720&height=70&lines=Hey!+It's+Azer+Khadhraoui..+%E2%99%A5;Angular+%7C+Spring+Boot+%7C+FastAPI+%7C+Kubernetes;Building+full-stack+apps+end+to+end;DevSecOps+%26+Innovation+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=A855F7&size=24&center=true&vCenter=true&width=720&height=70&lines=Hey!+It's+Azer+Khadhraoui..+%E2%99%A5;Angular+%7C+Spring+Boot+%7C+FastAPI+%7C+Kubernetes;Building+full-stack+apps+end+to+end;DevSecOps+%26+Innovation+Enthusiast;Coding+by+day%2C+football+by+heart+%E2%9A%BD" />
   </a>
 </p>
 
@@ -31,7 +29,7 @@ focus:      Full-Stack · DevSecOps · Machine Learning
 mindset:    from idea → clean code → secure delivery
 stack:      Angular · Spring Boot · FastAPI · Kubernetes
 learning:   Cloud, K8s, applied ML
-motto:      "Ship real solutions, not demos."
+motto:      "Defender's discipline, playmaker's vision." ⚽
 ```
 
 - 🧩 &nbsp;I build **complete applications**, front to back
@@ -52,27 +50,27 @@ motto:      "Ship real solutions, not demos."
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="34"><img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" width="26" /></td>
-    <td><b>Software Engineering Intern</b> — Arab Tunisian Bank <sub><i>· Immersion</i></sub></td>
+    <td align="center" width="48"><img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" height="34" /></td>
+    <td><b>Software Engineering Intern</b> — Arab Tunisian Bank <sub><i>· Head Office</i></sub></td>
     <td align="right"><sub>&nbsp;&nbsp;Jul 2026 – Aug 2026</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="PASTE_AFROX_LOGO_URL" width="26" /></td>
+    <td align="center" width="48"><img src="https://github.com/Azer-khadhraoui/Azer-khadhraoui/raw/main/logo.png" height="34" /></td>
     <td><b>Part-Time Web Developer</b> — AFRO X Lab <sub><i>· Remote</i></sub></td>
     <td align="right"><sub>&nbsp;&nbsp;Feb 2026 – Jun 2026</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" width="26" /></td>
+    <td align="center" width="48"><img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" height="34" /></td>
     <td><b>Software Development Intern</b> — Arab Tunisian Bank <sub><i>· Head Office</i></sub></td>
     <td align="right"><sub>&nbsp;&nbsp;Summer 2025</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/b46bccfa-2461-4237-aa33-53c71c5d1ca2" width="26" /></td>
+    <td align="center" width="48"><img src="https://github.com/user-attachments/assets/b46bccfa-2461-4237-aa33-53c71c5d1ca2" height="34" /></td>
     <td><b>PowerApps Developer Intern</b> — Agile 4UX <sub><i>· Remote</i></sub></td>
     <td align="right"><sub>&nbsp;&nbsp;Summer 2025</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" width="26" /></td>
+    <td align="center" width="48"><img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" height="34" /></td>
     <td><b>Banking Intern</b> — Arab Tunisian Bank <sub><i>· Kairouan</i></sub></td>
     <td align="right"><sub>&nbsp;&nbsp;Summer 2024</sub></td>
   </tr>
@@ -162,7 +160,7 @@ motto:      "Ship real solutions, not demos."
   <br/>
   <img src="https://media.giphy.com/media/XDsQPj2Q8rtQG4BQ7b/giphy.gif" width="400" alt="Coding Animation" />
   <br/><br/>
-  <i>"Passionate about creating innovative solutions that make a difference."</i> 💡
+  <i>"Every commit is a shot on target."</i> ⚽
   <br/><br/>
   ⭐ <b>Star my repositories if you find them helpful!</b> ⭐
 </div>
