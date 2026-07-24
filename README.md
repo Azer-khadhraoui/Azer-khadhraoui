@@ -1,181 +1,170 @@
-# Hi there, I'm Azer Khadhraoui! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Azer%20Khadhraoui&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20DevSecOps%20%C2%B7%20Machine%20Learning&descAlignY=60&descSize=18" width="100%" />
 
-![](https://komarev.com/ghpvc/?username=Azer-khadhraoui&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Azer-khadhraoui&color=blueviolet&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/azer-khadhraoui-6b18a8332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:mohamedazer.khadhraoui@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://azer-khadhraoui.github.io/Portfolio-WebPage/"><img src="https://img.shields.io/badge/Portfolio-00C853?style=flat-square&logo=githubpages&logoColor=white" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Hey!+It's+Azer+Khadhraoui..♥;Software+Engineering+Student+@+ESPRIT;Full-Stack+Developer+%26+Problem+Solver;Web+Developer+%26+Innovation+Enthusiast;Love+to+learn+new+technologies..♥">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=A855F7&size=24&center=true&vCenter=true&width=720&height=70&lines=Hey!+It's+Azer+Khadhraoui..+%E2%99%A5;Angular+%7C+Spring+Boot+%7C+FastAPI+%7C+Kubernetes;Building+full-stack+apps+end+to+end;DevSecOps+%26+Innovation+Enthusiast" />
   </a>
 </p>
 
-## 🎓 About Me
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-- 🎯 **3nd Year Software Engineering Student** at ESPRIT 
-- 💼 **Experience**: PowerApps Developer Intern at Agile 4UX | Banking Intern at ATB
-- 🏆 **Achievements**: Multiple certifications in AI, Data Science, C , JavaScript
-- 🌱 **Currently Learning**: Advanced React patterns, Modern TypeScript, Cloud technologies
-- 💡 **Passionate about**: Creating robust solutions, UI/UX design, and collaborative development
-- 🎯 **Goal**: Building innovative software solutions that solve real-world problems
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
-## 💼 Professional Experience
+<table>
+<tr>
+<td valign="top" width="62%">
 
+```yaml
+name:       Azer Khadhraoui
+role:       Software Engineering Student @ ESPRIT (3rd year)
+focus:      Full-Stack · DevSecOps · Machine Learning
+mindset:    from idea → clean code → secure delivery
+stack:      Angular · Spring Boot · FastAPI · Kubernetes
+learning:   Cloud, K8s, applied ML
+motto:      "Ship real solutions, not demos."
+```
 
-### <img src="logo.png" width="28"> Part-Time Web Developer — **AFRO X Lab** *(Remote)*
-📅 Feb 2026 – Present  
+- 🧩 &nbsp;I build **complete applications**, front to back
+- 🔐 &nbsp;I care about **security & clean pipelines**, not just features
+- 🚀 &nbsp;Always chasing the **next technology to master**
 
-- Developed the **Afro X Lab website** using **Next.js, Tailwind CSS, and TypeScript**
-- ---
-### <img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" alt="ATB Logo" width="28"> Software Development Intern — **Arab Tunisian Bank** *(Head Office, Remote)*  
-📅 *Summer 2025*  
-- Built a React-based card management app using HTML, CSS, JavaScript, and React
+</td>
+<td valign="top" width="38%">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-### <img src="https://github.com/user-attachments/assets/b46bccfa-2461-4237-aa33-53c71c5d1ca2" alt="Agile 4UX Logo" width="28"> PowerApps Developer Intern — **Agile 4UX** *(Remote)*  
-📅 *Summer 2025*  
-- Created a fuel management application with Microsoft PowerApps for Universal
+## 💼 Experience
 
----
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="34"><img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" width="26" /></td>
+    <td><b>Software Engineering Intern</b> — Arab Tunisian Bank <sub><i>· Immersion</i></sub></td>
+    <td align="right"><sub>&nbsp;&nbsp;Jul 2026 – Aug 2026</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="PASTE_AFROX_LOGO_URL" width="26" /></td>
+    <td><b>Part-Time Web Developer</b> — AFRO X Lab <sub><i>· Remote</i></sub></td>
+    <td align="right"><sub>&nbsp;&nbsp;Feb 2026 – Jun 2026</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" width="26" /></td>
+    <td><b>Software Development Intern</b> — Arab Tunisian Bank <sub><i>· Head Office</i></sub></td>
+    <td align="right"><sub>&nbsp;&nbsp;Summer 2025</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/b46bccfa-2461-4237-aa33-53c71c5d1ca2" width="26" /></td>
+    <td><b>PowerApps Developer Intern</b> — Agile 4UX <sub><i>· Remote</i></sub></td>
+    <td align="right"><sub>&nbsp;&nbsp;Summer 2025</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" width="26" /></td>
+    <td><b>Banking Intern</b> — Arab Tunisian Bank <sub><i>· Kairouan</i></sub></td>
+    <td align="right"><sub>&nbsp;&nbsp;Summer 2024</sub></td>
+  </tr>
+</table>
+</div>
 
-### <img src="https://github.com/user-attachments/assets/1dd021ea-4748-4dbd-a4d5-edd8dbc40415" alt="ATB Logo" width="28"> Banking Intern — **Arab Tunisian Bank**, Kairouan  
-📅 *Summer 2024*  
-- Supported customer service and assisted with daily operations
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
----
+## 🧰 Tech Stack
 
+<div align="center">
 
+**Frontend**
 
-
-### 🚀 Frontend Development
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Backend & Systems Programming
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
+**Data & ML**
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🗄️ Databases & Cloud
+**Databases & Cloud**
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Lists](https://img.shields.io/badge/Microsoft_Lists-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-### 🛠️ Development Tools & Frameworks
+**DevOps & DevSecOps**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Qt Framework](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![PowerApps](https://img.shields.io/badge/Microsoft_PowerApps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### 🎨 Design Tools
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%23A7C3E0.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-
-
-## 🏅 Certifications & Learning
-
-- 🎯 **JavaScript Algorithms and Data Structures** - freeCodeCamp (2025)
-- 🛡️ **Introduction to Cyber Security** - Cisco Networking Academy (2025)
-- 📊 **Introduction to Data Science** - Cisco Networking Academy (2025)
-- ☁️ **Fundamentals of Azure AI Services** - Microsoft (2025)
-- 💻 **C Intermediate** - Sololearn (2025)
-- 🤖 **Project Planning with AI** - Sololearn (2025)
-
-
-
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> GitHub Stats </b>
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azer-khadhraoui&theme=radical&layout=compact" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Azer-khadhraoui&theme=radical&row=1&column=6" alt="GitHub Trophies" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azer-khadhraoui&theme=radical" alt="GitHub Activity Graph" />
-</div>
-
-
-## 🔥 My Contribution Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azer-khadhraoui&theme=radical&hide_border=false&stroke=0000&background=0D1117" alt="Azer's GitHub streak"/>
-</div>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azer-khadhraoui&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azer-khadhraoui&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-## 🏆 GitHub Profile Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Azer-khadhraoui&theme=radical" alt="Azer's GitHub Contribution"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Azer-khadhraoui&theme=radical" alt="Azer's GitHub Languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Azer-khadhraoui&theme=radical" alt="Azer's GitHub Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Azer-khadhraoui&theme=radical" alt="Azer's GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Azer-khadhraoui&theme=radical&utcOffset=1" alt="Azer's GitHub Stats"/>
-</div>
-
-
-
-## 🔥 Contribution Heat Map
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Azer-khadhraoui" alt="Azer's Github chart" />
-</div>
-
-
-
-## 🌐 Portfolio & Contact
-
-### 🔗 **Portfolio Website**: [azer-khadhraoui.github.io](https://azer-khadhraoui.github.io/Portfolio-WebPage/)
-
-### <b>Let's Connect!</b> <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-mohamedazer.khadhraoui@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedazer.khadhraoui@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Azer_Khadhraoui-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azer-khadhraoui-6b18a8332)
-[![Facebook](https://img.shields.io/badge/Facebook-Azer_Khadhraoui-3b5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/azer.khadhraoui.859622/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-green?style=for-the-badge&logo=github&logoColor=white)](https://azer-khadhraoui.github.io/Portfolio-WebPage/)
 
 </div>
 
----
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  <img src="https://media.giphy.com/media/XDsQPj2Q8rtQG4BQ7b/giphy.gif" width="400" alt="Coding Animation">
-  
-  **"Passionate about creating innovative solutions that make a difference"** 💡
-  
-  ⭐ **Star my repositories if you find them helpful!** ⭐
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Azer-khadhraoui&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Azer-khadhraoui&layout=compact&langs_count=8&theme=radical&hide_border=true" />
 </div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Azer-khadhraoui&theme=radical&hide_border=true" alt="streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Azer-khadhraoui&theme=radical&no-frame=true&row=1&column=7&margin-w=8" alt="trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Azer-khadhraoui&theme=radical&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+![](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+## 🤝 Let's Connect <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60">
+
+<p align="center">
+  <a href="mailto:mohamedazer.khadhraoui@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/azer-khadhraoui-6b18a8332"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/azer.khadhraoui.859622/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://azer-khadhraoui.github.io/Portfolio-WebPage/"><img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <br/>
+  <img src="https://media.giphy.com/media/XDsQPj2Q8rtQG4BQ7b/giphy.gif" width="400" alt="Coding Animation" />
+  <br/><br/>
+  <i>"Passionate about creating innovative solutions that make a difference."</i> 💡
+  <br/><br/>
+  ⭐ <b>Star my repositories if you find them helpful!</b> ⭐
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
