@@ -24,7 +24,7 @@
 
 ```yaml
 name:       Azer Khadhraoui
-role:       Software Engineering Student @ ESPRIT (3rd year)
+role:       Software Engineering Student @ ESPRIT (4th year)
 focus:      Full-Stack · DevSecOps · Machine Learning
 mindset:    from idea → clean code → secure delivery
 stack:      Angular · Spring Boot · FastAPI · Kubernetes
